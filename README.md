@@ -71,7 +71,10 @@
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
   </a>
-  [![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+<a href="https://nestjs.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"
+      alt="NestJS"/> 
+  </a>
 
 </p>
 
