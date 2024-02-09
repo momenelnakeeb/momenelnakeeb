@@ -152,46 +152,6 @@
       alt="aws"/>
   </a>
 
- 
-<!-- </p>
-	
-<h3 align="center"><b>Cloud</h3>
-<p align="center">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://camo.githubusercontent.com/80d308b575eba9b5e7c5743493566354071b3b2324f406d6998eb498207415c3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416d617a6f6e2b41575326636f6c6f723d323332463345266c6f676f3d416d617a6f6e2b415753266c6f676f436f6c6f723d464646464646266c6162656c3d"
-      alt="aws"/>
-  </a>
-	
-  <a href="https://aws.amazon.com/ec2/" target="_blank">
-    <img src="https://camo.githubusercontent.com/8343fac9f847924f1b065027914ca66ff80e8857526b7561e559a09013a18e81/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416d617a6f6e2b45433226636f6c6f723d323232323232266c6f676f3d416d617a6f6e2b454332266c6f676f436f6c6f723d464639393030266c6162656c3d"
-      alt="aws ec2"/>
-  </a>
-  <a href="https://aws.amazon.com/s3/" target="_blank">
-    <img src="https://camo.githubusercontent.com/e72c2a6e52df2d1ff78867b6eafa3a97a48267bcbe22710fbf204883d056a6f7/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416d617a6f6e2b533326636f6c6f723d353639413331266c6f676f3d416d617a6f6e2b5333266c6f676f436f6c6f723d464646464646266c6162656c3d"
-      alt="aws s3"/>
-  </a>
-<!--   <a href="https://aws.amazon.com/sqs/" target="_blank">
-    <img src="https://camo.githubusercontent.com/fc6e33181bd12a96f854fe2b7ad5eea13fec6a30020a2e89476ea16d3912680e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416d617a6f6e2b53515326636f6c6f723d464634463842266c6f676f3d416d617a6f6e2b535153266c6f676f436f6c6f723d464646464646266c6162656c3d"
-      alt="aws sqs"/>
-  </a> -->
-</p>
- -->
-<!-- <h3 align="center">Cloud & Hosting:</h3>
-<p align="center">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
-  </a>
-  <a href="https://netlify.com/" target="_blank">
-    <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
-  </a>
-  <a href="https://heroku.com" target="_blank">
-    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
-      alt="heroku"/>
-  </a>
-</p> -->
     
 <h3 align="center"><b>DevOps Tools</h3>
 <p align="center">
