@@ -140,10 +140,20 @@
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-  <a href="https://github.com/omarhosny206" target="_blank">
+  <a href="https://github.com/momenelnakeeb" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-</p>
+
+ 
+	<h3 align="center"><b>Cloud</h3>
+<p align="center">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
+      alt="aws"/>
+  </a>
+
+ 
+<!-- </p>
 	
 <h3 align="center"><b>Cloud</h3>
 <p align="center">
@@ -165,7 +175,7 @@
       alt="aws sqs"/>
   </a> -->
 </p>
-
+ -->
 <!-- <h3 align="center">Cloud & Hosting:</h3>
 <p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank">
@@ -191,7 +201,7 @@
   </a>
 	
   <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://camo.githubusercontent.com/61406e0657482c3aef4b1bd17a20fe71231f648a7926cfe7e5597d56da525b0c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4b756265726e6574657326636f6c6f723d333236434535266c6f676f3d4b756265726e65746573266c6f676f436f6c6f723d464646464646266c6162656c3d"
+    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"
       alt="kuberenetes"/>
   </a>
 </p>
